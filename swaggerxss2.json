@@ -1,9 +1,9 @@
 {
-    "url": "https://wgkisv6n.x1.pe/swaggerxss2.yaml",
+    "url": "https://raw.githubusercontent.com/luffydragneel/swaggerxsspayloads/main/swaggerxss2.yaml",
     "urls": [
         {
-            "url": "https://wgkisv6n.x1.pe/swaggerxss2.yaml",
-            "name": "Foo"
+            "url": "https://raw.githubusercontent.com/luffydragneel/swaggerxsspayloads/main/swaggerxss2.yaml",
+            "name": "xssmethodtwo"
         }
     ]
 }
