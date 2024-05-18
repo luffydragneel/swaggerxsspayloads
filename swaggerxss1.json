@@ -1,9 +1,9 @@
 {
-    "url": "https://wgkisv6n.x1.pe/swaggerxss1.yaml",
+    "url": "https://raw.githubusercontent.com/luffydragneel/swaggerxsspayloads/main/swaggerxss1.yaml",
     "urls": [
         {
-            "url": "https://wgkisv6n.x1.pe/swaggerxss1.yaml",
-            "name": "Foo"
+            "url": "https://raw.githubusercontent.com/luffydragneel/swaggerxsspayloads/main/swaggerxss1.yaml",
+            "name": "xsstest1"
         }
     ]
 }
