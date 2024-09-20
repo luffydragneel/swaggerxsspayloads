@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "https://raw.githubusercontent.com/luffydragneel/swaggerxsspayloads/main/swaggerxss1.yaml",
-            "name": "xsstest1"
+            "name": "xsstest1<s>test</s>"
         }
     ]
 }
